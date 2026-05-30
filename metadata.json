@@ -1,0 +1,6 @@
+{
+  "name": "Analytické Športové Tipy",
+  "description": "Systém na automatizovaný zber kurzov, live stávok, výsledkov zápasov a generovanie analytických stávkových tipov pomocou Google Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
